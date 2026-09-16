@@ -2,8 +2,6 @@ Hi, I'm Upendra 👋
 
 Aspiring Data Analyst — I build data products end to end, from raw data to a live, deployed tool someone can actually open and use.
 
-Currently: Finishing my B.Sc. in Computer Science, applying for Data Analyst roles, and building GridCast — a machine learning model predicting F1 race outcomes with calibrated probabilities. (link coming once it's live)
-
 🚀 Projects
 
 HireLens — Data Analyst Market Intelligence Engine Analyzed 1,000+ verified job postings to surface skill demand, salary bands, and skill co-occurrence, with an AI layer that parses any job description in real time. Next.js TypeScript Gemini AI Recharts
